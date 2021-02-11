@@ -3,4 +3,9 @@
     height: 38px;
     text-align: center;
     object-fit: cover;
+    transition: opacity 1s linear;
+}
+
+.resources__logo:hover {
+    opacity: 0.3;
 }
