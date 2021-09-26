@@ -4,4 +4,6 @@
     margin: 0 40px 0 40px;
     object-fit: cover;
     border-radius: 50%;
+
+    justify-self: center;
 }
